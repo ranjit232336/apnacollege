@@ -1,2 +1,4 @@
 # apnacollege
-This is my first repository. Author Name - Ranjit Sharma
+This is my first repository. 
+<br>
+Author Name - Ranjit Sharma
